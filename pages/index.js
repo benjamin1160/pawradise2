@@ -4,8 +4,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold mb-4">Unlimited Dog Baths for Just $49/Month? Yup. Really.</h1>
       
       <p className="text-lg text-gray-600 mb-6">
-        Finally, a way to keep your pup fresh without draining your wallet — or your bathtub. 
-        <a href="/unlimited-bathing" className="text-blue-600 underline"> Visit our Unlimited Bathing page to get started!</a>
+        Finally, a way to keep your pup fresh without draining your wallet — or your bathtub.
       </p>
 
       <a
